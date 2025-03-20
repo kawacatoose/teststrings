@@ -1,5 +1,7 @@
 # teststrings
 
+String comparing. BASH scripting excercise.
+
 Task
 
 Write a script which reads two strings as arguments and then:

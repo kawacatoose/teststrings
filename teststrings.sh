@@ -41,6 +41,7 @@ if [[ $ARGUM -eq 2 ]]; then
 		echo
 	else
 		echo The first string is not the same as the second string.
+		echo
 	fi
 else
 	echo Need 2 strings.
